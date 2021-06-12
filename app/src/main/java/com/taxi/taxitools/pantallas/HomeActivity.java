@@ -31,6 +31,8 @@ public class HomeActivity extends AppCompatActivity {
                     case "Crear ruta de transporte colaborativo":
                         break;
                     case "Iniciar como domiciliario":
+                        startActivity(new Intent(HomeActivity.this,DomicilioActivity.class));
+
                         break;
                     case "Ver sugerencia de rutas":
                         startActivity(new Intent(HomeActivity.this,SugerenciaRutas.class));

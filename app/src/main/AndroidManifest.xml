@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TaxiTools">
-        <activity android:name=".pantallas.SugerenciaRutas"></activity>
+        <activity android:name=".pantallas.ColaborativoActivity"></activity>
+        <activity android:name=".pantallas.DomicilioActivity" />
+        <activity android:name=".pantallas.SugerenciaRutas" />
         <activity android:name=".pantallas.Viajes" />
         <activity android:name=".pantallas.HomeActivity" />
         <activity android:name=".pantallas.MenuActivity" />
