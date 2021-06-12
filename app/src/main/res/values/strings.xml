@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Taxi Tools</string>
+    <string name="saludo">Bienvenido 👋</string>
+    <string name="slogan">Taxi Tools, aumenta tus ganancias!</string>
+</resources>
